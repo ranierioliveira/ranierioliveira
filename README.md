@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ranierioliveira
-- 👀 Recentemente matriculado na faculdade de Análise e Desenvolvimento de Sistemas 
+- 👀 Cursando Análise e Desenvolvimento de Sistemas (1º semestre)
 - 🌱 Estudando HTMl, CSS e JS
 <div align="center">
   <a href="https://github.com/ranierioliveira">
