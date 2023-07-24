@@ -1,4 +1,4 @@
-- 👋 @ranierioliveira 
+- @ranierioliveira 
 -  Cursando Análise e Desenvolvimento de Sistemas (2º semestre)
 -  HTMl, CSS e JS
 
