@@ -1,6 +1,6 @@
 - 👋 @ranierioliveira 
--  Cursando Análise e Desenvolvimento de Sistemas (1º semestre)
--  Estudando HTMl, CSS e JS
+-  Cursando Análise e Desenvolvimento de Sistemas (2º semestre)
+-  HTMl, CSS e JS
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
